@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.0*%
+%TF.CreationDate,2026-10-05T23:18:50+05:30*%
+%TF.ProjectId,Driver_Drowsiness_System,44726976-6572-45f4-9472-6f7773696e65,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.0) date 2026-10-05 23:18:50*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X144000000Y-88500000D02*
+X194000000Y-88500000D01*
+X194000000Y-148000000D01*
+X144000000Y-148000000D01*
+X144000000Y-88500000D01*
+M02*
