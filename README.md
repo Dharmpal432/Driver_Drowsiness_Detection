@@ -118,23 +118,23 @@ The computer vision part of the project contains four Python programs.
 
 ## Camera Test
 
-`camera_test.py`
+[`camera_test.py`](OpenCV_Drowsiness_Detection/camera_test.py)
 
 Tests whether the computer camera can successfully capture live video.
 
 ## Face Detection
 
-`face_detect.py`
+[`face_detect.py`](OpenCV_Drowsiness_Detection/face_detect.py)
 
 Uses OpenCV Haar Cascade to detect the driver's face.
 ## Eye Detection
 
-`eye_detect.py`
+[`eye_detect.py`](OpenCV_Drowsiness_Detection/eye_detect.py)
 
 Detects the eyes inside the detected face region.
 ## Drowsiness Detection
 
-`drowsiness_detection.py`
+[`drowsiness_detection.py`](OpenCV_Drowsiness_Detection/drowsiness_detection.py)
 
 Combines face and eye detection and monitors eye visibility.
 If the eyes remain undetected for a predefined number of frames, the system displays:
